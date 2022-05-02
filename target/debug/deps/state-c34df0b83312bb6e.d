@@ -1,0 +1,10 @@
+/usr/home/marjie/marjie_samba_tank/junjie_rust/staticfiles/target/debug/deps/state-c34df0b83312bb6e.rmeta: /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/usr/home/marjie/marjie_samba_tank/junjie_rust/staticfiles/target/debug/deps/state-c34df0b83312bb6e.d: /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs /home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs
+
+/home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/lib.rs:
+/home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/ident_hash.rs:
+/home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/storage.rs:
+/home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/init.rs:
+/home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/shim.rs:
+/home/marjie/.cargo/registry/src/github.com-1ecc6299db9ec823/state-0.5.2/src/container.rs:
